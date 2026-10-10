@@ -1,6 +1,6 @@
 <img src="banner.svg" alt="madgeeked" width="100%">
 
-hi, i'm chance. i like building small, tidy things that feel good to use. right now that's mostly a music player, and other projects show up when i feel like it.
+i make stuff. mostly a music player rn
 
 &nbsp;
 
@@ -12,8 +12,7 @@ a spotify player for windows. needs premium.
 
 &nbsp;
 
-<a href="https://www.last.fm/user/madgeeked"><img src="https://img.shields.io/badge/last.fm-madgeeked-d51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="last.fm"></a>
-<a href="https://discord.com/users/482734034255085578"><img src="https://img.shields.io/badge/discord-madgeeked-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
+[![last.fm](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=madgeeked&count=5&theme=dark)](https://www.last.fm/user/madgeeked)
 
 &nbsp;
 
