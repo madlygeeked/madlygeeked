@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="madgeeked" width="100%">
+<img src="banner.svg?v=2" alt="madgeeked" width="100%">
 
 i love life.
 
@@ -12,7 +12,7 @@ a spotify player for windows. needs premium.
 
 &nbsp;
 
-[![last.fm](lastfm.svg)](https://www.last.fm/user/madgeeked)
+[![last.fm](lastfm.svg?v=2)](https://www.last.fm/user/madgeeked)
 
 &nbsp;
 
