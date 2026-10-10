@@ -1,25 +1,19 @@
 <img src="banner.svg" alt="madgeeked" width="100%">
 
-<img align="right" src="https://madlygeeked.github.io/assets/bears/v01.png" alt="" width="72">
-
-```text
-$ whoami
-chance. i make stuff.
-```
-
-mostly a music player right now. other things when i feel like it.
+hi, i'm chance. i like building small, tidy things that feel good to use. right now that's mostly a music player, and other projects show up when i feel like it.
 
 &nbsp;
 
 ### chanceify™ &nbsp;·&nbsp; *music reimagined*
 
-a small, fast spotify player for windows. needs premium.
+a spotify player for windows. needs premium.
 
 [download](https://github.com/madlygeeked/chanceify/releases) &nbsp;·&nbsp; [more info](https://madlygeeked.github.io/chanceify/) &nbsp;·&nbsp; [source](https://github.com/madlygeeked/chanceify)
 
-### the rest
+&nbsp;
 
-not ready. you'll know when it is.
+<a href="https://www.last.fm/user/madgeeked"><img src="https://img.shields.io/badge/last.fm-madgeeked-d51007?style=for-the-badge&logo=last.fm&logoColor=white" alt="last.fm"></a>
+<a href="https://discord.com/users/482734034255085578"><img src="https://img.shields.io/badge/discord-madgeeked-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 
 &nbsp;
 
