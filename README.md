@@ -6,7 +6,7 @@ i love life.
 
 ### <img src="chanceify.png" alt="" height="30" align="absmiddle"> chanceify™ &nbsp;·&nbsp; *music reimagined*
 
-a spotify player for windows. needs premium.
+a spotify player for windows.
 
 [download](https://github.com/madlygeeked/chanceify/releases) &nbsp;·&nbsp; [more info](https://madlygeeked.github.io/chanceify/) &nbsp;·&nbsp; [source](https://github.com/madlygeeked/chanceify)
 
