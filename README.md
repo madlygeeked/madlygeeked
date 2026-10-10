@@ -12,7 +12,7 @@ a spotify player for windows. needs premium.
 
 &nbsp;
 
-[![last.fm](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=madgeeked&count=5&theme=dark)](https://www.last.fm/user/madgeeked)
+[![last.fm](lastfm.svg)](https://www.last.fm/user/madgeeked)
 
 &nbsp;
 
