@@ -1,16 +1,26 @@
-## Hi there 👋
+<img src="banner.svg" alt="madgeeked" width="100%">
 
-<!--
-**madlygeeked/madlygeeked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://madlygeeked.github.io/assets/bears/v01.png" alt="" width="72">
 
-Here are some ideas to get you started:
+```text
+$ whoami
+chance. i make stuff.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mostly a music player right now. other things when i feel like it.
+
+&nbsp;
+
+### chanceify™ &nbsp;·&nbsp; *music reimagined*
+
+a small, fast spotify player for windows. needs premium.
+
+[download](https://github.com/madlygeeked/chanceify/releases) &nbsp;·&nbsp; [more info](https://madlygeeked.github.io/chanceify/) &nbsp;·&nbsp; [source](https://github.com/madlygeeked/chanceify)
+
+### the rest
+
+not ready. you'll know when it is.
+
+&nbsp;
+
+[site](https://madlygeeked.github.io) &nbsp;·&nbsp; [buy me a honey 🍯](https://buymeacoffee.com/madlygeeked)
