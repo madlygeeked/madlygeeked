@@ -1,6 +1,6 @@
 <img src="banner.svg" alt="madgeeked" width="100%">
 
-i make stuff. mostly a music player rn
+i love life.
 
 &nbsp;
 
