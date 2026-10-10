@@ -4,7 +4,7 @@ i love life.
 
 &nbsp;
 
-### chanceify™ &nbsp;·&nbsp; *music reimagined*
+### <img src="chanceify.png" alt="" height="30" align="absmiddle"> chanceify™ &nbsp;·&nbsp; *music reimagined*
 
 a spotify player for windows. needs premium.
 
