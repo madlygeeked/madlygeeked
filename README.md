@@ -1,4 +1,4 @@
-<img src="banner.svg?v=2" alt="madgeeked" width="100%">
+<img src="banner.svg?v=3" alt="madgeeked" width="100%">
 
 i love life.
 
