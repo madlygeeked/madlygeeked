@@ -1,7 +1,6 @@
 <img src="banner.svg?v=4" alt="madgeeked" width="100%">
 madlygeeked <br />
 https://madlygeeked.github.io/ <br />
-i love life. <br />
 
 &nbsp;
 
