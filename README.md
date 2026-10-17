@@ -14,8 +14,4 @@ local library works great. <br />
 
 &nbsp;
 
-[![last.fm](lastfm.svg?v=2)](https://www.last.fm/user/madgeeked)
-
-&nbsp;
-
 [site](https://madlygeeked.github.io) &nbsp;·&nbsp; [buy me a honey 🍯](https://buymeacoffee.com/madlygeeked)
