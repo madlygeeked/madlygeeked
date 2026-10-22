@@ -1,6 +1,6 @@
 <img src="banner.svg?v=5" alt="madgeeked" width="100%">
 &nbsp;
-### <img src="chanceify.png" alt="" height="30" align="absmiddle"> chanceify™ &nbsp;·&nbsp; *music reimagined*
+<img src="chanceify.png" alt="" height="30" align="absmiddle"> chanceify™ &nbsp;·&nbsp; *music reimagined*
 
 a spotify player for windows. <br />
 needs premium to stream. blame them. <br />
