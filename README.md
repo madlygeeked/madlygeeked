@@ -1,8 +1,6 @@
 <img src="banner.svg?v=5" alt="madgeeked" width="100%">
-madlygeeked <br />
-https://madlygeeked.github.io/ <br />
 
-&nbsp;
+&nbsp
 
 ### <img src="chanceify.png" alt="" height="30" align="absmiddle"> chanceify™ &nbsp;·&nbsp; *music reimagined*
 
