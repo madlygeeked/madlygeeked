@@ -1,6 +1,6 @@
 <img src="banner.svg?v=4" alt="madgeeked" width="100%">
 madlygeeked <br />
-[madlygeeked.github.io](https://madlygeeked.github.io/) <br />
+https://madlygeeked.github.io/ <br />
 
 &nbsp;
 
