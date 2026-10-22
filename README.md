@@ -1,4 +1,4 @@
-<img src="banner.svg?v=4" alt="madgeeked" width="100%">
+<img src="banner.svg?v=5" alt="madgeeked" width="100%">
 madlygeeked <br />
 https://madlygeeked.github.io/ <br />
 
