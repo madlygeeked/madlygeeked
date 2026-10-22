@@ -14,4 +14,4 @@ local library works great. <br />
 
 &nbsp;---
 
-[rage.wtf](https://rage.wtf/chance) &nbsp;·&nbsp; [buy me a honey 🍯](https://buymeacoffee.com/madlygeeked)
+&nbsp;·&nbsp;[buy me a honey 🍯](https://buymeacoffee.com/madlygeeked)
