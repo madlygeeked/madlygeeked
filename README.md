@@ -10,6 +10,6 @@ local library works great. <br />
 
 [download](https://github.com/madlygeeked/chanceify/releases) &nbsp;·&nbsp; [more info](https://madlygeeked.github.io/chanceify/) &nbsp;·&nbsp; [source](https://github.com/madlygeeked/chanceify)
 
-&nbsp;---
+&nbsp;
 
-&nbsp;·&nbsp;[buy me a honey 🍯](https://buymeacoffee.com/madlygeeked)
+&nbsp;&nbsp;[buy me a honey 🍯](https://buymeacoffee.com/madlygeeked)
