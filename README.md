@@ -12,4 +12,4 @@ local library works great. <br />
 
 &nbsp;
 
-&nbsp;&nbsp;[buy me a honey 🍯](https://buymeacoffee.com/madlygeeked)
+&nbsp;&nbsp;[honey 🍯](https://buymeacoffee.com/madlygeeked)
